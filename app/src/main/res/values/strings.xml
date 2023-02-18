@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComponentesDeInterface</string>
+    <string name="btn_jogar">Jogar</string>
 </resources>
