@@ -10,4 +10,6 @@
     <!-- Cores customizadas -->
     <color name="yellow">#FFFF00</color>
     <color name="nintendo_red">#E60012</color>
+    <color name="texto_botao">#247CF3</color>
+    <color name="primaria">#E91E63</color>
 </resources>
