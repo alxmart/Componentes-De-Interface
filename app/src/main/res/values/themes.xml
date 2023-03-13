@@ -21,8 +21,4 @@
 
     </style>
 
-   <!-- <style name="CaixaTexto" parent="TextAppearance.AppCompat.Button">
-        <item name="android:textColor">@color/secundaria_escuro</item>
-    </style>-->
-
 </resources>
