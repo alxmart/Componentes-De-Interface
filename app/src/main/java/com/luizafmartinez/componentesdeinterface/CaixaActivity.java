@@ -16,11 +16,8 @@ public class CaixaActivity extends AppCompatActivity {
         Button botao = findViewById(R.id.botao_salvar);
 
         botao.setOnClickListener(view ->
-                System.out.println("Botão foi clicado"));
-
-
-
-
+                System.out.println("Botão foi clicado")
+        );
     }
 
     /*public void executar( View view ) {
